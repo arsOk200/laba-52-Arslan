@@ -1,11 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99b2b7d1-d297-45a3-a8c1-d6c78d9ae707" name="Changes" comment="" />
+    <list default="true" id="99b2b7d1-d297-45a3-a8c1-d6c78d9ae707" name="Changes" comment="added first and second level">
+      <change afterPath="$PROJECT_DIR$/src/CardView.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/faces/JC.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/faces/JD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/faces/JH.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/faces/JS.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/faces/KC.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/faces/KD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/faces/KH.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/faces/KS.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/faces/QC.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/faces/QD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/faces/QH.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/faces/QS.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/faces/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/faces/joker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cards.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/Card.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/CardDeck.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GXWbBIkp9lhlHWkWSK7uVC5GtO" />
   <component name="ProjectViewState">
@@ -17,7 +52,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/user/projects/js_16/homework2/JS16HomeWork50OkenovArslan",
+    "last_opened_file_path": "/home/user/projects/js_16/homework2/js17homework52okenovarslanlaba",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.nodejs",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -30,10 +69,30 @@
       <option name="presentableId" value="Default" />
       <updated>1666535477337</updated>
       <workItem from="1666535478634" duration="156000" />
+      <workItem from="1666535686538" duration="6450000" />
+      <workItem from="1666552059021" duration="1780000" />
+      <workItem from="1666621984330" duration="10198000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="deleted unused files&#10;and commited main failes" />
+    <MESSAGE value="added first level&#10;and making second level" />
+    <MESSAGE value="added first and second level" />
+    <option name="LAST_COMMIT_MESSAGE" value="added first and second level" />
   </component>
 </project>
