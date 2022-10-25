@@ -3,23 +3,14 @@ import Card from "./lib/Card";
 import CardDeck from "./lib/CardDeck";
 
 interface CardProps{
-  rank:string;
-  suit:string;
-  symbol:string;
+  array:object[];
 }
-
-const card = new Card('hearts','6');
-console.log(card.getScore());
-
-
-const  cardsDeck = new CardDeck([]);
-console.log(cardsDeck.getCards(5));
-
 const CardView:React.FC<CardProps> = (props) => {
+  console.log(props.array);
   return (
-      <span className={'card rank-'+props.rank+' ' + props.suit}>
-        <span className="rank">{props.rank}</span>
-        <span className="suit">{props.symbol}</span>
+      <span className={'card rank-'+' ' + ''}>
+        <span className="rank">{}</span>
+        <span className="suit">{}</span>
       </span>
   );
 };
